@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Engineer · Java/Spring Boot · React · Final-Year IT Undergraduate @ SLIIT</h3>
 
 <p align="center">
-  <a href="piyumi-ranaweera.netlify.app"><b>🌐 Portfolio</b></a> ·
+  <a href="https://piyumi-ranaweera.netlify.app/"><b>🌐 Portfolio</b></a> ·
   <a href="https://www.linkedin.com/in/piyumi-ranaweera-122339313/"><b>💼 LinkedIn</b></a> ·
   <a href="mailto:piyumiranaweera515@gmail.com"><b>✉️ Email</b></a>
 </p>
